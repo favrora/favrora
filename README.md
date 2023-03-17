@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm David
+
+- 👨‍💻 I'm a Software Engineer
+- 💬 Ask me about JavaScript, Next.js, React, and TypeScript
+
 
 <!--
 **favrora/favrora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
