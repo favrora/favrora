@@ -27,6 +27,8 @@ TypeScript, Expo Router, and AsyncStorage. Includes responsive mobile and deskto
 deterministic domain logic, offline persistence, tests, CI, architecture documentation, and a custom
 app identity.
 
+[Live web demo](https://favrora.github.io/mobile-support-desk/)
+
 ### [Multiplier Arena](https://github.com/favrora/Guessing-Game)
 
 Real-time multiplayer prediction game built with React 19, TypeScript, Redux Toolkit, Socket.IO,
